@@ -1,2 +1,2 @@
 # Photon_stat-Oscilloscope
-Contains files and codes related to building the number statistics of photons using an oscilloscope.
+Contains MatLAB code for building the number statistics of photons using time series recorded using an oscilloscope.
